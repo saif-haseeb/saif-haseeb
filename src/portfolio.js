@@ -37,14 +37,16 @@ const skills = [
   // if there are no skills, Skills section won't show up
   'Python',
   'SQL',
+  'Java',
   'TypeScript',
   'JavaScript',
   'Bash',
   'Terraform',
   'CI/CD',
   'Git',
-  'Efficient streaming pipelines',
-  'Batch pipelines',
+  'Streaming',
+  'Batch',
+  'DataOps',
 ]
 
 const contact = {
