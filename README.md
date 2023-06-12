@@ -1,1 +1,6 @@
-# Coming soon
+Saif Haseeb
+
+To build locally:
+
+- `yarn`
+- `yarn build`
