@@ -29,6 +29,7 @@ const skills = [
   'Apache Kafka',
   'Terraform',
   'CI/CD',
+  'o11y',
   'Git',
   'Streaming',
   'Batch',
